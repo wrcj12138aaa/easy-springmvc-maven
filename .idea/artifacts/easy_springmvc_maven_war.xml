@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="easy-springmvc-maven:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="easy-springmvc-maven.war">
+      <element id="artifact" artifact-name="easy-springmvc-maven:war exploded" />
+    </root>
+  </artifact>
+</component>
